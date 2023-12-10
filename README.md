@@ -14,7 +14,7 @@ NumPy
 Matplotlib
 
 #Installation
-Clone the repository to your local machine: git clone https://your-repository-link.git
+Clone the repository to your local machine: git clone https://github.com/dark-syndrome/EKF_control_simulation
 
 #Usage: 
 Navigate to the project directory and run the main Python script: python main.py
