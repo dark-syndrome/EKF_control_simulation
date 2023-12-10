@@ -1,4 +1,4 @@
-Robot Navigation with EKF Control
+# Robot Navigation with EKF Control
 Overview
 This project implements a control system for a robotic navigation task using Extended Kalman Filter (EKF).
 The goal is to navigate a robot from an initial position to a desired target position in a two-dimensional space, while accounting for process and measurement noise.
